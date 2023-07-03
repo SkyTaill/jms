@@ -1,4 +1,6 @@
 spring:
   artemis:
-    user: 'artemis'
-    password: 'simetraehcapa'
+    user: 'admin'
+    password: 'admin'
+server:
+  port: 45631
